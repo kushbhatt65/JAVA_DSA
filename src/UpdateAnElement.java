@@ -59,7 +59,6 @@ public class UpdateAnElement {
 
         return answer;
     }
-
     public static void main(String[] args) {
 
         int[][] logs = {
